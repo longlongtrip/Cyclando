@@ -96,9 +96,9 @@ Atividades/Tarefas e Documentos                           | Tiago Gomes | Filipe
 - Diagrama atividades                                           R                A             I 
 - Diagrama de use cases                                         A                R             I
 - Diagrama de classes                                           R                R             I
-- Criação da Base de dados e tabelas em SQL                     R                R             I
-- Escolha do template HTML                                      R                R             I
-- Definição das relações da base de dados                       R                R             I
+- Criação da Base de dados e tabelas em SQL (cyclando.sql)      R                R             I
+- Escolha do template HTML(Template_HTML.png)                   R                R             I
+- Definição das relações da base de dados (Relações_BD.png)     R                R             I
 - Análise de resultados e definição de funcionalidades          R                R             I
 
 Intervenientes e responsabilidades:
