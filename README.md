@@ -99,7 +99,7 @@ Atividades/Tarefas e Documentos                           | Tiago Gomes | Filipe
 - Criação da Base de dados e tabelas em SQL (cyclando.sql)      R                R             I
 - Escolha do template HTML(Template_HTML.png)                   R                R             I
 - Definição das relações da base de dados (Relações_BD.png)     R                R             I
-- Análise de resultados e definição de funcionalidades          R                R             I
+- Análise de resultados e definição de funcionalidades (A_R_D_F.docx)         R                R             I
 
 Intervenientes e responsabilidades:
 *R(esponsável), A(provação), C(onsultado), I(nformado)*
