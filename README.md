@@ -18,6 +18,7 @@ HTML: Hypertext Markup Language
 PHP: Hypertext Preprocessor
 SQL: Structured Query Language
 Java: A high-level, class-based, object-oriented programming language
+JavaScript
 
 
 #### 3. Funcionamento
@@ -80,7 +81,7 @@ Tecnologias utilizadas na comunicação
 12.04.2022
 
 #### 10. Assuntos em aberto e decisões pendentes
-- Funcionalidades detalhadas de alguns módulos
+- MVP 
 
 #### 11. Suporte
 16tmg93@gmail.com (Tiago Gomes)
@@ -108,4 +109,5 @@ Intervenientes e responsabilidades:
 Taxa de sucesso/erro:
 - Quantidade de users registados
 - Volume de vendas de produtos e serviços
+- Sugestões dos utilizadores
 
